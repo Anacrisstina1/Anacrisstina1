@@ -1,8 +1,13 @@
 <div align="center">
-  <h1>Hello, world!</h1>
+  <h1> Hello, world! <img height= "40em" src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight2&accessoriesType=Blank&hairColor=Brown&facialHairType=Blank&clotheType=GraphicShirt&clotheColor=Black&graphicType=SkullOutline&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale' </h1>
+   
+
   <h2> Saiba um pouco mais sobre mim e minha jornada⭐️</h2>
 </div>
 <div align="center">
+   <h2>Visitas ao perfil:</h2>
+  <img align="center" src="https://profile-counter.glitch.me/Anacrisstina1/count.svg" />
+  <br> <br>
   <a href="https://github.com/Anacrisstina1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anacrisstina1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
