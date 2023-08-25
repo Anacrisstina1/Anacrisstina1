@@ -17,5 +17,5 @@
 <div align="center">
     <h2>
         <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
-    <h1>https://www.w3schools.com/java/java_classes.asp</h1>
+   
 </div>
